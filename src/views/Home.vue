@@ -1,8 +1,6 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <template>
-  <div v-show="showAddTask">
-    <CustomAddTasks @add-task="addTask" />
-  </div>
+  <CustomAddTasks v-show="showAddTask" @add-task="addTask" />
   <CustomTasks
     @toggle-reminder="toggleReminder"
     @delete-task="deleteTask"
