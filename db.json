@@ -16,7 +16,13 @@
       "id": "3",
       "text": "Food Shopping",
       "day": "Friday",
-      "reminder": false
+      "reminder": true
+    },
+    {
+      "text": "go home",
+      "day": "afternoon",
+      "reminder": true,
+      "id": "v7jULl7"
     }
   ]
 }
