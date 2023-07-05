@@ -17,12 +17,6 @@
       "text": "Food Shopping",
       "day": "Friday",
       "reminder": false
-    },
-    {
-      "id": 47660,
-      "text": "makan",
-      "day": "malem",
-      "reminder": true
     }
   ]
 }
